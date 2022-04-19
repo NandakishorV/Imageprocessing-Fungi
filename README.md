@@ -1,11 +1,8 @@
 # Imageprocessing-Fungi
-imageprocessing using python
+- imageprocessing using python
 
-# Environment
-anacondo-Jupyter Notebook
+- Environment:anacondo-Jupyter Notebook
 
-# Language
-python
+- Language:python
 
-# dataset
-https://www.kaggle.com/competitions/fungiclef2022/data
+- dataset:https://www.kaggle.com/competitions/fungiclef2022/data
