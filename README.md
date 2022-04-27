@@ -1,7 +1,7 @@
 # Imageprocessing-Fungi
 - imageprocessing using python
 
-- Environment:anacondo-Jupyter Notebook
+- Environment:kaggle
 
 - Language:python
 
