@@ -1,7 +1,7 @@
 # Imageprocessing-Fungi
 - imageprocessing using python
 
-- Environment:kaggle
+- Environment:Google Colab
 
 - Language:python
 
